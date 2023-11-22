@@ -204,7 +204,7 @@ font-variant: all-small-caps;
 
 .box-ewq{
   width: 1515px;
-  height: 200px;
+  height: 97px;
 }
 
 .ndf{
@@ -229,4 +229,128 @@ font-variant: all-small-caps;
   gap: 10px;
   border-radius: 100px;
   background: #0A775F;
+}
+
+.yfgsdu{
+  color: #333;
+  font-family: Roboto,sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  width: 237px;
+  font-variant: all-small-caps;
+}
+
+
+.ubmj{
+
+  color: #333;
+  font-family: Roboto,sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 155.556% */
+  width: 395PX;
+
+}
+
+.ndkkd{
+  width: 435px;
+  height: 420px;
+  background: #F8F8F2;
+margin-bottom: 67px;
+}
+
+.ksdlk{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.jnfd{
+  color: #333;
+  font-family: Roboto,sans-serif;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  font-variant: all-small-caps;
+  margin-bottom: 100PX;
+}
+
+.jfkllk{
+  color: #FFF;
+  text-align: center;
+  font-family: Roboto,sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  font-variant: all-small-caps;
+}
+
+.lds{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.btn-jer{
+  display: flex;
+  width: 198.514px;
+  height: 54.087px;
+  padding: 16px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 100px;
+  background: #C99B67;
+  flex-shrink: 0;
+  color: #FFF;
+  text-align: center;
+  font-family: Roboto,sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-variant: all-small-caps;
+  letter-spacing: 1px;
+  border: none;
+}
+
+.kdfk{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.wedewf{
+  width: 1515px;
+  height: 160px;
+  background: #F3D7B7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.kfssd{
+  color: #333;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.lksds{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
 }
